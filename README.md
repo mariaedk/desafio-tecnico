@@ -7,6 +7,7 @@ Este repositório contém a implementação completa de uma solução distribuí
 ## Visão Geral da Arquitetura
 
 A solução foi estruturada com base em microserviços e nanosserviços, seguindo os princípios de segurança, desacoplamento e escalabilidade. Cada serviço foi implementado de forma isolada, com seu próprio controle de acesso, modelo de domínio e integração simulada via mock.
+Todas as APIs foram desenvolvidas em Java.
 
 ---
 
